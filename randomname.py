@@ -1,15 +1,5 @@
 import random
 
-# with open("./practice.txt", "r") as file:
-    # for line in file:
-        # print(line.strip())
-        # test = [line.strip()]
-
-    # print('list')
-    # print(test[0])
-    # print(test[1])
-    # print(test[2])
-
 first = []
 last = []
 
